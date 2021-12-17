@@ -1,2 +1,2 @@
 # teman
-<img src="https://github.com/ariyazz/crack-fb/blob/master/Screenshot/Screenshot_20210708_045105.jpg" width="100%" alt="screenshot">
+<img src="https://raw.githubusercontent.com/ariya-s/teman/main/IMG_20211115_104304.jpg" width="100%" alt="screenshot">
