@@ -5,3 +5,5 @@
 <img src="https://raw.githubusercontent.com/ariya-s/teman/main/IMG_20210926_155028.jpg" width="100%" alt="screenshot">
 <img src="https://raw.githubusercontent.com/ariya-s/teman/main/IMG_20210926_155034.jpg" width="100%" alt="screenshot">
 <img src="https://raw.githubusercontent.com/ariya-s/teman/main/IMG_20210926_154829.jpg" width="100%" alt="screenshot">
+<img src="https://raw.githubusercontent.com/ariya-s/teman/main/IMG-20211109-WA0015.jpg" width="100%" alt="screenshot">
+<img src="https://raw.githubusercontent.com/ariya-s/teman/main/IMG-20211011-WA0017.jpg" width="100%" alt="screenshot">
